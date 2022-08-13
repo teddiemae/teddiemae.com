@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
+title: Teddie Mae
 email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "some description"
+keywords: "Birmingham, Birmingham Alabama, Birmingham Real Estate, Birmingham AL Real Estate"
+skills: "Real Estate Agent"
+meta_author: Mae Teddie
 
 # Google webmaster tools
 google_verify:
@@ -24,18 +24,23 @@ contact: static
 disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
+#
+# fce59c # Yellow
+# bfe4f0 # Blue
+# c77890 # Light Pink
+# 7e246b # Purple
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 7e246b # Purple
+  primary-rgb: "126,36,107"
+  secondary: c77890 # Light Pink
+  secondary-dark: bfe4f0 # Blue
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Teddie Mae
+  location: Birmingham
+  social: 
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
