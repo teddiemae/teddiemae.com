@@ -2,16 +2,13 @@
 <html>
     {% include head.html %}
     <body id="page-top" class="index">
+    
+    <div class="first-page">
     {% include header.html %}
     {% include about.html %}
-
-    {% if site.contact == "static" %}
+    </div>
+    
     {% include contact_static.html %}
-    {% elsif site.contact == "disqus" %}
-    {% include contact_disqus.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
 
     {% include footer.html %}
     {% include modals.html %}
